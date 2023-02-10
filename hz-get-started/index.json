@@ -9,7 +9,7 @@
       {
         "title": "Install",
         "text": "step1.md"
-      }
+      },
       {
         "title": "Start a Hazelcast member",
         "text": "step2.md"
