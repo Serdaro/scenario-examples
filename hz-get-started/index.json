@@ -1,0 +1,25 @@
+{
+  "title": "1-member Hazelcast Cluster",
+  "description": "Install Hazelcast and start a standalone member",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Install",
+        "text": "step1.md"
+      }
+      {
+        "title": "Start a Hazelcast member",
+        "text": "step2.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}
